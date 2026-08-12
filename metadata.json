@@ -1,22 +1,21 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Programming: Elementwise Operations",
+    "slug": "programming-elementwise-operations",
+    "description": "Describes the concept of elementwise operations in the context of programming including how the same operation is applied to pairs of data in data structures being operated on.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "programming",
+        "pseudocode"
     ],
-    "duration": 0,
+    "duration": 3,
     "prerequisites": [
-        "",
-        ""
+        "programming-pseudocode",
+        "programming-arithmetic-operators",
+        "programming-lists-arrays"
     ],
     "related": [
-        "",
-        ""
+        "maths-pointwise-operations"
     ]
 }
